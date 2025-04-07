@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=Welcome%20to%20My%20Animal%20World!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=동물%20보육원&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </div>
 <!-- GitAnimals -->
 <div align="center">
