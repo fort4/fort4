@@ -6,6 +6,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
 
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=fort4&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/fort4"
@@ -13,3 +14,4 @@
   height="300"
 />
 </a>
+</div>
