@@ -1,6 +1,5 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?      
-  type=waving&color=0:89cff0,100:0007ca&height=240&text=Borderline%20Intellectual%20Functioning&animation=twinkling&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89cff0,100:0007ca&height=240&text=Borderline%20Intellectual%20Functioning&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 
 <div style="text-align: center;  margin-bottom: 3px; padding: auto;"> 
