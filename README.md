@@ -5,8 +5,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
-    
-    
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=fort4&utm_content=farm">
 <img
