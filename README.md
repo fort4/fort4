@@ -1,10 +1,12 @@
-<div align="center">
-  <!-- 상단 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=240&text=Welcome%20to%20My%20Farm!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<div align= "center">
+  <img src="https://capsule-render.vercel.app/api?      
+  type=waving&color=0:89cff0,100:0007ca&height=240&text=Borderline%20Intellectual%20Functioning&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
-<br/>
+<div style="text-align: center;  margin-bottom: 3px; padding: auto;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div>
 
-<!-- GitAnimals 이미지 -->
+<!-- GitAnimals -->
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=fort4&utm_content=farm">
     <img
